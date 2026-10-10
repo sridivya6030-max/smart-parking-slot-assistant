@@ -1,0 +1,6 @@
+{
+  "name": "AI-Based Smart Parking Slot Assistant",
+  "description": "A beginner-friendly visual dashboard prototype for monitoring parking space availability and simulating smart slot management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
